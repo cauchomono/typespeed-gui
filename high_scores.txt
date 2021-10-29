@@ -1,0 +1,2 @@
+Correct_words,Correct_letters,WPM
+0,0,0
