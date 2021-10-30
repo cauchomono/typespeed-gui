@@ -1,2 +1,2 @@
-Correct_words,Correct_letters,WPM
-0,0,0
+correct_words,correct_letters,wpm
+25,151,30.2
